@@ -8,5 +8,10 @@
       "scripts": ["background.js"]
     }
   },
+  
+  // you need more icons to put it on the webstore though.
+  // you need a 32x32, 64x64, 128x128, 
+  // and maybe even a 255x255 sized image
+  
   "icons": { "128": "icon128.png" }
 }
