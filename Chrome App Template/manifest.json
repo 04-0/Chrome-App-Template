@@ -1,0 +1,12 @@
+{
+  "name": "Chrome App Template",
+  "description": "Change this.",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "128": "icon128.png" }
+}
